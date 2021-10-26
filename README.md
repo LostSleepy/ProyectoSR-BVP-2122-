@@ -14,6 +14,12 @@ El objetivo del laboratorio sería que creemos una VPC en la nube para aprender 
 ![image](https://user-images.githubusercontent.com/60689503/138308444-35d67b88-e225-4b7c-a8e8-a2f83261f1ac.png)
 
 
+Índice de contenidos: 
+
+- [Paso Número 1](#Paso-Numero-1)
+- [Paso Número 2](#Paso-2:-Crear-Nuevas-subredes)
+- [Paso Número 3](#PASO-3:-Crear-Grupos-de-Seguridad-en-la-VPC:)
+  
 # Paso Numero 1:
 Nos vamos al laboratorio de Amazon:
 
