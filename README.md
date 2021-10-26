@@ -163,4 +163,7 @@ Una vez realizado esperamos que nuestra instancia tenga los dos checks pasados, 
 
 ![image](https://user-images.githubusercontent.com/60689503/138750029-a11621fd-ee84-4134-a58a-154d71bd3620.png)
 
-Una vez esperemos que los dos checks de la Instancia en AWS esten en verde, ya tendriamos nuestro servidor Web en funcionamiento, hasta nos podemos conectar desde el navegador a la página web
+Una vez esperemos que los dos checks de la Instancia en AWS esten en verde, ya tendriamos nuestro servidor Web en funcionamiento, hasta nos podemos conectar desde el navegador a la página web usando la DNS pública (en mi caso ec2-34-220-14-118.us-west-2.compute.amazonaws.com) como se muestra en la siguiente imagen:
+
+![image](https://user-images.githubusercontent.com/60689503/138896450-74644a39-3ce1-4d3b-ae8b-4aebf94f9c6b.png)
+
