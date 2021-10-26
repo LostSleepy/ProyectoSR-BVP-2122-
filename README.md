@@ -17,8 +17,9 @@ El objetivo del laboratorio sería que creemos una VPC en la nube para aprender 
 Índice de contenidos: 
 
 - [Paso Número 1](#Paso-Numero-1)
-- [Paso Número 2](#Paso-2:-Crear-Nuevas-subredes)
-- [Paso Número 3](#PASO-3:-Crear-Grupos-de-Seguridad-en-la-VPC:)
+- [Paso Número 2](#Paso-Numero-2)
+- [Paso Número 3](#Paso-Numero-3)
+- [Paso Número 4](#Paso-Numero-4)
   
 # Paso Numero 1:
 Nos vamos al laboratorio de Amazon:
@@ -53,7 +54,7 @@ Esperamos a que se cree.
 
 ![image](https://user-images.githubusercontent.com/60689503/138744486-423d60c7-34c5-49cc-80b7-81560a2fad08.png)
 
-# Paso 2: Crear Nuevas subredes
+# Paso Numero 2:
 Le damos a la opción de subredes:
 
 
@@ -95,7 +96,7 @@ Ahora selecciono  la tabla de enrutamiento con Main y No y VPC y Lab VPC y repit
 ![image](https://user-images.githubusercontent.com/60689503/138746646-2d79a51d-26fc-4944-9222-aca3c7757ba8.png)
 
 
-# PASO 3: Crear Grupos de Seguridad en la VPC:
+# Paso Numero 3:
 
 Seleccionamos la opción Security Grups:
 
@@ -110,7 +111,7 @@ Y lo configuramos así para permitir el trafico HTTP y le damos a crear:
 ![image](https://user-images.githubusercontent.com/60689503/138748148-2afc75d4-cf3a-426f-a21e-a6a85dcf6108.png)
 
 
-# Paso 4: Crear una instancia con un servidor web
+# Paso Numero 4:
 
 Le damos a servicios y escogemos EC2:
 
