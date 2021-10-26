@@ -3,8 +3,22 @@ Proyecto de la asignatura Servicios en Red
 ![image](https://user-images.githubusercontent.com/60689503/138302830-6e77eac0-6fcf-48c3-9f4b-aa3284e69a87.png)
 
 
+
+# Índice de contenidos: 
+
+- [Paso Número 1](#Paso-Numero-1)
+- [Paso Número 2](#Paso-Numero-2)
+- [Paso Número 3](#Paso-Numero-3)
+- [Paso Número 4](#Paso-Numero-4)
+
+
 # Autores
 ### Este proyecto ha sido desarrollado por Pedro Barrante Vázquez.
+
+# Licencia
+Con licencia cedida de Creative commons
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
+
 # Introducción
 ¡Hola!, soy Pedro Barrante Vázquez, el desarrollador de este proyecto. Con el quiero mostraros un laboratorio de un montaje de una VPC hecho en AWS, espero que disfruteis de este proyecto.
 # Objetivo general
@@ -12,14 +26,6 @@ El objetivo del laboratorio sería que creemos una VPC en la nube para aprender 
 
 
 ![image](https://user-images.githubusercontent.com/60689503/138308444-35d67b88-e225-4b7c-a8e8-a2f83261f1ac.png)
-
-
-Índice de contenidos: 
-
-- [Paso Número 1](#Paso-Numero-1)
-- [Paso Número 2](#Paso-Numero-2)
-- [Paso Número 3](#Paso-Numero-3)
-- [Paso Número 4](#Paso-Numero-4)
   
 # Paso Numero 1:
 Nos vamos al laboratorio de Amazon:
