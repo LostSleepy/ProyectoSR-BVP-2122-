@@ -146,7 +146,7 @@ Y seguimos configurando hasta que lleguemos al security group y ponemos el secur
 ![image](https://user-images.githubusercontent.com/60689503/138749686-dba628d3-cd5b-41db-af00-6e836ceb054f.png)
 
 
-Nos saltara un aviso de que no podemos teneracceso a la maquina porque el puerto 22 no esta abierto y procedemos a Lanzar la instancia, nos saldra el siguiente mensaje y escogeremos lo siguiente y le daremos a lanzar:
+Nos saltara un aviso de que no podemos tener acceso a la máquina porque el puerto 22 no esta abierto y procedemos a Lanzar la instancia, nos saldra el siguiente mensaje y escogeremos lo siguiente y le daremos a lanzar:
 
 
 ![image](https://user-images.githubusercontent.com/60689503/138749898-373e6fa1-879b-4e97-aec4-41cbefc10467.png)
