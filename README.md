@@ -1,14 +1,19 @@
 # ProyectoSR-BVP-2122
 Proyecto de la asignatura Servicios en Red
-
 ![image](https://user-images.githubusercontent.com/60689503/138302830-6e77eac0-6fcf-48c3-9f4b-aa3284e69a87.png)
+
+
 # Autores
 ### Este proyecto ha sido desarrollado por Pedro Barrante Vázquez.
 # Introducción
-¡Hola!, soy Pedro Barrante Vázquez, el desarrollador y productor de este proyecto. Con el quiero mostraros un laboratorio de un montaje de una VPC hecho en AWS, espero que disfruteis de este proyecto.
+¡Hola!, soy Pedro Barrante Vázquez, el desarrollador de este proyecto. Con el quiero mostraros un laboratorio de un montaje de una VPC hecho en AWS, espero que disfruteis de este proyecto.
 # Objetivo general
 El objetivo del laboratorio sería que creemos una VPC en la nube para aprender los conceptos básicos de esta misma.
+
+
 ![image](https://user-images.githubusercontent.com/60689503/138308444-35d67b88-e225-4b7c-a8e8-a2f83261f1ac.png)
+
+
 # Paso Numero 1:
 Nos vamos al laboratorio de Amazon:
 
@@ -121,7 +126,7 @@ Ponemos todo por defecto menos la seccion de red que pondremos y coonfiguraremos
 ![image](https://user-images.githubusercontent.com/60689503/138749169-2c65b206-3fb1-4532-9114-b8604c26df00.png)
 
 
-Y la seccion avanzada que tendremos que poner lo siguiente:
+Y la seccion avanzada que tendremos que poner lo siguiente para que el trafico HTTP pueda funcionar:
 #!/bin/bash
 #Install Apache Web Server and PHP
 yum install -y httpd mysql php
@@ -131,8 +136,6 @@ unzip lab-app.zip -d /var/www/html/
 #Turn on web server
 chkconfig httpd on
 service httpd start
-
-Para que el trafico HTTP pueda funcionar
 
 Seguido le damos todo por defecto hasta llegar a la seccion de etiquetas en la cual pondremos lo siguiente:
 
@@ -153,4 +156,4 @@ Una vez realizado esperamos que nuestra instancia tenga los dos checks pasados, 
 
 ![image](https://user-images.githubusercontent.com/60689503/138750029-a11621fd-ee84-4134-a58a-154d71bd3620.png)
 
-Y ya tendriamos el laboratorio montado
+Una vez esperemos que los dos checks de la Instancia en AWS esten en verde, ya tendriamos nuestro servidor Web en funcionamiento, hasta nos podemos conectar desde el navegador a la página web
