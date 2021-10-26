@@ -16,7 +16,7 @@ Proyecto de la asignatura Servicios en Red
 ### Este proyecto ha sido desarrollado por Pedro Barrante Vázquez.
 
 # Licencia
-Con licencia cedida de Creative commons.
+Licencia de Creative Commons.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
 
@@ -174,3 +174,15 @@ Una vez esperemos que los dos checks de la Instancia en AWS esten en verde, ya t
 
 ![image](https://user-images.githubusercontent.com/60689503/138896450-74644a39-3ce1-4d3b-ae8b-4aebf94f9c6b.png)
 
+
+
+
+# Bibliografía/webgrafía
+Este Proyecto esta realizado con la información obtenida de Amazon Cloud Fundations.
+
+# Conclusiones
+En conclusión crear una VPC de amazon nos puede servir para lanzar los recursos que queramos en AWS como podría ser una instancia EC2.
+
+# Despedida y agradecimientos
+
+Aquí finaliza este proyecto, agradecimientos a nuestro profesor Jose Luis Rodriguez Rodriguez por el curso de AWS y enseñarnos las VPC.
