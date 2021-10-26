@@ -49,6 +49,7 @@ Le damos a la opción de subredes:
 ![image](https://user-images.githubusercontent.com/60689503/138744817-7a0b219c-55cd-4891-ad56-b744598aee3c.png)
 
 Y le damos a crear subred:
+
 ![image](https://user-images.githubusercontent.com/60689503/138744895-0feb313c-e11b-4be4-907a-ddd695877d20.png)
 
 La configuramos de la siguiente manera y le damos a Crear:
