@@ -13,7 +13,7 @@ Proyecto de la asignatura Servicios en Red
 
 
 # Autores
-### Este proyecto ha sido desarrollado por Pedro Barrante Vázquez.
+Este proyecto ha sido desarrollado por Pedro Barrante Vázquez.
 
 # Licencia
 Licencia de Creative Commons.
