@@ -143,21 +143,13 @@ Ponemos todo por defecto menos la seccion de red que pondremos y coonfiguraremos
 Y la seccion avanzada que tendremos que poner lo siguiente para que el trafico HTTP pueda funcionar:  
 
 #!/bin/bash  
-
 #Install Apache Web Server and PHP  
-
 yum install -y httpd mysql php  
-
 #Download Lab files  
-
 wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-100-ACCLFO-2/2-lab2-vpc/s3/lab-app.zip  
-
 unzip lab-app.zip -d /var/www/html/  
-
 #Turn on web server  
-
 chkconfig httpd on  
-
 service httpd start  
 
 
